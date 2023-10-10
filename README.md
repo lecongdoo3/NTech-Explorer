@@ -7,7 +7,7 @@ In this project, an educational app called 'NTech Explorer' was programmed- It's
 ## Methodology
 I applied knowledge obtained from the unit HIT137 - Software Now to design and program this app.
 
-They are: Class, Tkinter, functions, reading data from text file, loops, if-else statement, etc.
+They are: Class, Tkinter, functions, reading data from text file, loops, if-else statement, text processing, etc.
 
 I've also added a feature to the app where Facebook AI's NLP Model condenses lengthy academic articles, and an OpenAI Chatbot assists in translating complex academic English terms into indigenous languages and answering basic queries.
 
