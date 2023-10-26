@@ -1,6 +1,8 @@
 # NTech-Explorer
 An educational platform designed for Indigenous students and adults in the Northern Territory to foster sci-tech learning.
 
+Please watch this video to know more about this app: https://www.youtube.com/watch?v=vRVhFmyXkDE
+
 ## Introduction
 In this project, an educational app called 'NTech Explorer' was programmed- It's a simple, user-friendly platform which is designed especially for indegenous students and adults to use for sci-tech learning. It allows students to access modern and easy-to-understand teaching videos as well as science subjects' materials. There's also quiz games for students to practice and play with. Additionally, Aboriginal adults can get updated about news, research, articles, etc on recent science and technology advances in the Northern Territory. Furthermore, with a pre-trained NLP model from Facebook AI, users can condense text into a short paragraph to quickly grasp the essence of a research paper or article. Finally, a chatbot was integrated to guide users through the app and help translate academic or difficult words into any aboriginal language.
 
